@@ -1,0 +1,7 @@
+Asset Ref,Category,Asset,Description,Location,Acquired Date,Purchase Cost GBP,Current Value GBP,Valuation Date,Insured,Insurer,Policy Ref,Serial/VIN,Condition,Inventory Ref,Notes
+AST-001,Fine Art,Oil painting - landscape,Framed oil,Drawing Room,,25000,25000,,Yes,,,,Excellent,INV-G02-001,Example row - replace
+AST-002,Valuables,Silver garniture,Antique silver,Drawing Room,,15000,15000,,Yes,,,,Excellent,INV-G02-003,Example row - replace
+AST-003,Vehicle,Rolls-Royce Cullinan,SUV,Garage,,,,,Yes,,,VIN,Excellent,,Cross-ref Vehicle Register V-01
+AST-004,Vehicle,Rolls-Royce Corniche,Convertible,Storage,,,,,Yes,,,VIN,Excellent,,Cross-ref Vehicle Register V-02
+AST-005,Equipment,Range cooker,Professional kitchen,Kitchen,,9000,,,Yes,,,,Good,INV-LG01-001,Example row - replace
+AST-006,Furniture,Console table,Antique mahogany,Entrance Hall,,4500,,,Yes,,,,Excellent,INV-G01-001,Example row - replace

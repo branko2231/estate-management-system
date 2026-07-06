@@ -1,0 +1,10 @@
+Project ID,Project Name,Priority,Phase,Owner,Start Date,Target Completion,Budget GBP,Approved GBP,Committed GBP,Spent GBP,Contractor,Percent Complete,Status,Dependencies,Notes
+CP-01,IT Modernisation,High,Planning,Estate Manager,,,,,,,,10,Active,,Foundation project - enables CP-02/03/04
+CP-02,Whole-House Smart Home System,High,Concept,Estate Manager,,,,,,,,0,Not Started,CP-01;CP-04,
+CP-03,Touchscreen Control Systems,High,Concept,Estate Manager,,,,,,,,0,Not Started,CP-02,
+CP-04,Premium Wi-Fi + Enterprise Networking,High,Planning,Estate Manager,,,,,,,,10,Active,CP-01,
+CP-05,Security System Upgrade,High,Concept,Estate Manager,,,,,,,,0,Not Started,CP-04,
+CP-06,Whole-House Audio System,Medium,Concept,Estate Manager,,,,,,,,0,Not Started,CP-02;CP-03,
+CP-07,HVAC / AC Replacement Programme,High,Concept,Estate Manager,,,,,,,,0,Not Started,,Coordinate with CP-08 and CP-09
+CP-08,Plumbing Overhaul,Medium,Concept,Estate Manager,,,,,,,,0,Not Started,,Coordinate with CP-07 and CP-09
+CP-09,Kitchen Refurbishment Programme,Medium,Concept,Estate Manager,,,,,,,,0,Not Started,CP-07;CP-08,For retained Chef

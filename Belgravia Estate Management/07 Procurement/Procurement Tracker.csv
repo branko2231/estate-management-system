@@ -1,0 +1,6 @@
+Ref,Date Requested,Item or Service,Category,Supplier,Value Band,Amount GBP,Requested By,Approved By,Approval Date,Order Placed,Order Date,Delivered,Delivery Date,Invoice Ref,Invoice Paid,Status,Notes
+PO-2026-001,06/07/2026,Household cleaning supplies,Household,SUP-04,Under 250,180,Housekeeping,Chief Butler,06/07/2026,Yes,06/07/2026,No,,,No,Ordered,Example row - replace
+PO-2026-002,06/07/2026,Fresh flowers weekly,Florist,SUP-03,Under 250,120,Chief Butler,Estate Manager,06/07/2026,Yes,06/07/2026,Yes,06/07/2026,,No,Delivered,Example row - replace
+PO-2026-003,06/07/2026,Network design consultancy,IT,,Over 10000,,Estate Manager,Family Office,,No,,No,,,No,Awaiting Quote,Capital project CP-04
+PO-2026-004,,,,,,,,,,No,,No,,,No,Requested,
+PO-2026-005,,,,,,,,,,No,,No,,,No,Requested,

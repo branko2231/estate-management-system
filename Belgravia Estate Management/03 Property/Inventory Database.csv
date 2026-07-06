@@ -1,0 +1,7 @@
+Inventory Ref,Room,Category,Item,Description,Make/Maker,Quantity,Value Band,Estimated Value GBP,Condition,Acquired Date,Photo Ref,Insured,Asset Register Ref,Notes
+INV-G01-001,Entrance Hall,Furniture,Console table,Antique mahogany console,,1,B,4500,Excellent,,PH-G01-001,Yes,,Example row - replace
+INV-G02-001,Drawing Room,Art,Oil painting,Framed landscape oil,,1,A,25000,Excellent,,PH-G02-001,Yes,AST-001,Example row - replace
+INV-G02-002,Drawing Room,Furniture,Sofa pair,Bespoke upholstered sofas,,2,B,8000,Excellent,,PH-G02-002,Yes,,Example row - replace
+INV-F101-001,Principal Bedroom,Furniture,Bed,Super-king bespoke bed,,1,B,6000,Excellent,,PH-F101-001,Yes,,Example row - replace
+INV-LG01-001,Kitchen,Equipment,Range cooker,Professional range,,1,B,9000,Good,,PH-LG01-001,Yes,,Example row - replace
+INV-G02-003,Drawing Room,Valuables,Silver garniture,Antique silver,,1,A,15000,Excellent,,PH-G02-003,Yes,AST-002,Example row - replace

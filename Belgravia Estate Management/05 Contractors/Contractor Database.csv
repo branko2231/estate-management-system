@@ -1,0 +1,10 @@
+Ref,Company,Trade,Primary Contact,Phone,Email,Address,Insurance Provider,Insurance Expiry,Certification,Cert Expiry,Approved,Preferred,Day Rate GBP,Status,Notes
+C-01,,Plumbing,,,,,,,,,No,No,,Active,Example row - replace
+C-02,,Electrical,,,,,,,NICEIC,,No,No,,Active,Example row - replace
+C-03,,HVAC / AC,,,,,,,Gas Safe,,No,No,,Active,Example row - replace
+C-04,,Security Systems,,,,,,,SSAIB/NSI,,No,No,,Active,Example row - replace
+C-05,,IT / Networking,,,,,,,,,No,No,,Active,Example row - replace
+C-06,,AV / Smart Home,,,,,,,,,No,No,,Active,Example row - replace
+C-07,,Building / Decorating,,,,,,,,,No,No,,Active,Example row - replace
+C-08,,Gardening / Grounds,,,,,,,,,No,No,,Active,Example row - replace
+C-09,,Specialist Cleaning,,,,,,,,,No,No,,Active,Example row - replace
